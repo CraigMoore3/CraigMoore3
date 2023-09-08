@@ -1,6 +1,6 @@
-### Hi there 👋
+### Greetings !
 
-- 🔭 I’m currently working on Game design
-- 🌱 I’m currently learning Coding
+- 🔭 I’m currently working on Virtual Environments, Game Studies
+- 🌱 I’m currently learning p5js, Blender, Unity
 - 😄 Pronouns: He/Him
 
