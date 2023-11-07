@@ -1,8 +1,8 @@
 ### Greetings !
 
 - 🔭 I’m currently working on Virtual Environments, Game Studies
-- 🌱 I’m currently learning p5js, Blender, Unity
-- 🕹 I'm currently playing Armored Core VI, Persona 5 Royal, Cyberpunk 2077
-- 📚 I'm currently reading "Blood Meridian" and "Games: Conflict, Competition, and Cooperation"
+- 🌱 I’m currently learning p5js, Signal Culture Apps
+- 🕹 I'm currently playing Alan Wake 2
+- 📚 I'm currently reading "Haunted Media" and "In the Dust of this Planet"
 - 😄 Pronouns: He/Him
 
